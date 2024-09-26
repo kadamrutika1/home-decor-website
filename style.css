@@ -63,6 +63,14 @@ nav ul li a:hover::after {
   color: white;
   margin-top: 10%;
 }
+.head h1{
+  
+    font-size: 72px;
+    background: -webkit-linear-gradient(#d84848, #f39595);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+}
 .head h1 {
   font-size: 86px;
   padding-bottom: 25px;
